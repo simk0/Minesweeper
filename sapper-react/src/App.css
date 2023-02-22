@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+button{
+    width: 80px;
+    height: 40px;
+    font-style: italic;
+    margin-left: auto;
+    margin-right: 10px;
+    position: relative;
+    flex-wrap: wrap;
+}
+.startBtn:hover{
+    width: 90px;
+    height: 50px;
+    font-size: 14px;
+    color: green;
+}
+.stopBtn:hover{
+    width: 90px;
+    height: 50px;
+    font-size: 14px;
+    color: red;
+}
+
+h1{
+    text-shadow: gray;
+    margin-right: 50px;
+}
+
+.main-content{
+    justify-content: normal;
+    margin-top: 100px;
+    display: flex;
+    position: center;
+}
+
+.board{
+
+}
